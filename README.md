@@ -1,4 +1,5 @@
 # MiniRobot Design
+![Image of Robot](https://github.com/bursonk/MiniRobot/blob/9408f1380da08fe55624b97ccad0f2fc3468c10f/Example/Robot_in_action.PNG)
 A mini robot built within sumo robot specifications designed to push blocks outside of the ring.  Built to run autonomous or remotely controlled with Bluetooth, as well as a programmable OLED display for debugging.
 
 ## Table of contents
