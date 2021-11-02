@@ -6,7 +6,7 @@ A mini robot built within sumo robot specifications designed to push blocks outs
 * [Technologies](#technologies)
 * [Project Status](#project-status)
 * [Features](#features)
-* [Contributors](#contributors)
+* [acknowledgements](#acknowledgements)
 
 
 ## General info
@@ -42,6 +42,6 @@ The sumo robot features a 10cm X 10cm Chassis.
 
 ### Results
 
-## Contributors
+## Acknowledgements
 A folder of SolidWorks parts with the electrical components used in the robot is included in this repository. 
 Parts in this folder are used for the robot assembly design and were obtained from SolidWorks resources, from the manufacturer, or developed by me.
