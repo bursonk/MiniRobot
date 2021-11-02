@@ -14,18 +14,21 @@ A mini robot built within sumo robot specifications designed to push blocks outs
 This project contains the custom chassis and PCB design files I created for a University Design Project in February 2020. 
 
 ## Technologies
-*Teensy3.6
-*KiCad
-*SolidWorks
+* Teensy3.6
+* KiCad
+* SolidWorks
 
 ## Project Status
 Due to various manufactures of component boards, location of mounting holes may need to be altered.
 
 ### To Do List
-*Documentation
+- [x] Update files to reflect final design
+- [] Complete Project Documentation
 
 ## Features
 The sumo robot features a 10cm X 10cm Chassis.
+
+![Robot Drawing](https://github.com/bursonk/MiniRobot/blob/b10c9e72931094e9cc71d1e600cb2f4f39e0ed44/Example/Drawing_Design.png)
 
 ### Chassis
 
