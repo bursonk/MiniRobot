@@ -23,7 +23,7 @@ Due to various manufactures of component boards, location of mounting holes may 
 
 ### To Do List
 - [x] Update files to reflect final design
-- [] Complete Project Documentation
+- [ ] Complete Project Documentation
 
 ## Features
 The sumo robot features a 10cm X 10cm Chassis.
